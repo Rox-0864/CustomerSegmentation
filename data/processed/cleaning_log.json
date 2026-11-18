@@ -1,0 +1,10 @@
+{
+  "rows_in": 541909,
+  "removed_duplicates": 5268,
+  "removed_no_customer": 135037,
+  "removed_cancellations": 8872,
+  "removed_non_positive": 40,
+  "removed_bad_dates": 0,
+  "rows_out": 392692,
+  "customers": 4338
+}
